@@ -2,7 +2,7 @@
   "name": "quiz-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://codersaizu.github.io/Quiz-adda-React/",
+  "homepage": "https://codersaizu.github.io/Quiz-adda-reactjs/",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
@@ -44,6 +44,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh": "^2.8.9",
+    "gh-pages": "^3.2.3",
+    "pages": "^0.0.16"
   }
 }
